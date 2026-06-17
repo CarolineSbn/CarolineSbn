@@ -1,14 +1,12 @@
-# Olá, eu sou a Caroline
+# Olá, me chamo Caroline
 
 <table>
 <tr>
-<td width="45%">
-
-<img src="images/tec.png">
-
+<td width="45%" valign="top">
+  <img src="images/tec.png">
 </td>
 
-<td width="55%">
+<td width="55%" valign="middle">
 
 ## Dados, Estatística e IoT
 
@@ -24,7 +22,8 @@ Busco transformar dados em soluções inteligentes, conectando tecnologia e o mu
 
 <table>
 <tr>
-<td width="55%">
+
+<td width="55%" valign="middle">
 
 ## Biotecnologia e Agro
 
@@ -34,11 +33,10 @@ Tenho interesse em genética vegetal e em como a tecnologia e a ciência podem c
 
 </td>
 
-<td width="45%">
-
-<img src="images/agro.png">
-
+<td width="45%" valign="top">
+  <img src="images/agro.png">
 </td>
+
 </tr>
 </table>
 
