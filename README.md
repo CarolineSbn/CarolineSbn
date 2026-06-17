@@ -4,9 +4,11 @@
 
 ## Dados, Estatística e IoT
 
-Atualmente estudo Ciência de Dados, Estatística, Internet das Coisas (IoT) e automações.
+Sou estudante de Ciência da Computação e atualmente venho me aprofundando em áreas como Ciência de Dados, Estatística, Internet das Coisas (IoT) e automações.
 
-Gosto de explorar como os dados, a programação e a tecnologia podem ser utilizados para criar soluções inteligentes e resolver problemas do mundo real.
+Grande parte dos meus estudos é voltada para Python, SQL e R, buscando entender como os dados podem ser organizados, analisados e transformados em soluções úteis. Também tenho interesse em integrar sistemas, explorar aplicações de IoT e desenvolver soluções que conectem tecnologia e o mundo real por meio da automação e da análise inteligente de informações.
+
+Estou sempre em busca de aprender mais e desenvolver projetos que me permitam unir programação, dados e aplicações práticas.
 
 <br clear="left"/>
 
@@ -16,9 +18,11 @@ Gosto de explorar como os dados, a programação e a tecnologia podem ser utiliz
 
 <img align="right" width="300" src="images/agro.png">
 
-Além da tecnologia, também tenho interesse em biotecnologia e no agronegócio.
+Além da tecnologia, também venho explorando áreas ligadas à biotecnologia e ao agronegócio, dois temas que despertam bastante a minha curiosidade.
 
-Atualmente venho estudando mais sobre genética vegetal e sobre como a ciência e a inovação podem contribuir para o desenvolvimento do setor.
+Tenho interesse em genética vegetal e em como a ciência pode contribuir para o desenvolvimento e o melhoramento das plantas. Também gosto de estudar como sensores, dados e soluções de Internet das Coisas (IoT) podem ser aplicados no campo, aproximando tecnologia e agricultura para tornar os processos mais inteligentes e eficientes.
+
+Meu objetivo é continuar aprofundando esses conhecimentos e entender como diferentes áreas podem trabalhar juntas para gerar inovação e impacto no agro.
 
 <br clear="right"/>
 
