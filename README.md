@@ -1,12 +1,12 @@
-# Olá, eu sou a Caroline
+# Caroline De Lima Sabino
 
 <img align="left" width="300" src="images/tec.png">
 
 ## Dados, Estatística e IoT
 
-Estudante de Ciência da Computação com interesse em Ciência de Dados, Estatística, Internet das Coisas (IoT) e automações.
+Atualmente estudo Ciência de Dados, Estatística, Internet das Coisas (IoT) e automações.
 
-Busco transformar dados em soluções inteligentes, conectando tecnologia e o mundo real por meio da análise de informações, integração entre sistemas e desenvolvimento de soluções capazes de gerar impacto.
+Gosto de explorar como os dados, a programação e a tecnologia podem ser utilizados para criar soluções inteligentes e resolver problemas do mundo real.
 
 <br clear="left"/>
 
@@ -16,14 +16,18 @@ Busco transformar dados em soluções inteligentes, conectando tecnologia e o mu
 
 <img align="right" width="300" src="images/agro.png">
 
-Também venho aprofundando meus estudos em biotecnologia e aplicações voltadas ao agronegócio.
+Além da tecnologia, também tenho interesse em biotecnologia e no agronegócio.
 
-Tenho interesse em genética vegetal e em como a tecnologia e a ciência podem contribuir para o desenvolvimento de culturas mais eficientes e sustentáveis.
+Atualmente venho estudando mais sobre genética vegetal e sobre como a ciência e a inovação podem contribuir para o desenvolvimento do setor.
 
 <br clear="right"/>
 
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,vscode&theme=light" />
+  <img src="https://cdn.simpleicons.org/python/white" width="45">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/white" width="45">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/visualstudiocode/white" width="45">
 </p>
