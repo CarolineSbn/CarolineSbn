@@ -28,6 +28,4 @@ Atualmente venho estudando mais sobre genética vegetal e sobre como a ciência 
   <img src="https://cdn.simpleicons.org/python/white" width="45">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/mysql/white" width="45">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/visualstudiocode/white" width="45">
 </p>
