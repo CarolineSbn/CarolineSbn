@@ -1,12 +1,6 @@
-# Olá, me chamo Caroline
+# Olá, eu sou a Caroline
 
-<table>
-<tr>
-<td width="45%" valign="top">
-  <img src="images/tec.png">
-</td>
-
-<td width="55%" valign="middle">
+<img align="left" width="300" src="images/tec.png">
 
 ## Dados, Estatística e IoT
 
@@ -14,33 +8,21 @@ Estudante de Ciência da Computação com interesse em Ciência de Dados, Estat�
 
 Busco transformar dados em soluções inteligentes, conectando tecnologia e o mundo real por meio da análise de informações, integração entre sistemas e desenvolvimento de soluções capazes de gerar impacto.
 
-</td>
-</tr>
-</table>
+<br clear="left"/>
 
-<br>
-
-<table>
-<tr>
-
-<td width="55%" valign="middle">
+---
 
 ## Biotecnologia e Agro
+
+<img align="right" width="300" src="images/agro.png">
 
 Também venho aprofundando meus estudos em biotecnologia e aplicações voltadas ao agronegócio.
 
 Tenho interesse em genética vegetal e em como a tecnologia e a ciência podem contribuir para o desenvolvimento de culturas mais eficientes e sustentáveis.
 
-</td>
+<br clear="right"/>
 
-<td width="45%" valign="top">
-  <img src="images/agro.png">
-</td>
-
-</tr>
-</table>
-
-<br>
+---
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,vscode&theme=light" />
