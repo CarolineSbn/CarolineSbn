@@ -6,13 +6,6 @@ Construindo aplicações reais, um projeto de cada vez.
 
 ---
 
-[![GitHub followers](https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge)](https://github.com/SEU_USUARIO)
-[![GitHub Stars](https://img.shields.io/github/stars/SEU_USUARIO?affiliations=OWNER&style=for-the-badge)](https://github.com/SEU_USUARIO)
-
-</div>
-
----
-
 # 👩‍💻 Sobre mim
 
 Sou estudante de **Ciência da Computação** apaixonada por tecnologia e desenvolvimento de software.
