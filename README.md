@@ -1,12 +1,12 @@
 # Caroline De Lima Sabino
 
-### 💻 Computer Science Student | Future Full Stack Developer
+### Computer Science Student | Future Full Stack Developer
 
 Construindo aplicações reais, um projeto de cada vez.
 
 ---
 
-# 👩‍💻 Sobre mim
+# Sobre mim
 
 Sou estudante de **Ciência da Computação** apaixonada por tecnologia e desenvolvimento de software.
 
@@ -16,7 +16,7 @@ Meu objetivo é aprender construindo projetos reais, evoluindo continuamente e c
 
 ---
 
-# 🚀 Atualmente estudando
+# Atualmente estudando
 
 - HTML5
 - CSS3
@@ -31,7 +31,7 @@ Meu objetivo é aprender construindo projetos reais, evoluindo continuamente e c
 
 ---
 
-# 🛠 Tecnologias
+# Tecnologias
 
 ### Front-end
 
