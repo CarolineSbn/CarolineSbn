@@ -1,25 +1,67 @@
 # Caroline De Lima Sabino
 
-Estudante de Ciência da Computação focada em Desenvolvimento Full Stack.
+### 💻 Computer Science Student | Future Full Stack Developer
 
-Estou construindo minha carreira desenvolvendo aplicações completas, desde interfaces modernas até APIs e bancos de dados.
-
-Atualmente estudo JavaScript, TypeScript, React, Node.js, Python e SQL, sempre colocando o aprendizado em prática através de projetos reais.
-
-<br clear="left"/>
+Construindo aplicações reais, um projeto de cada vez.
 
 ---
 
-## Atualmente estudando
+[![GitHub followers](https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge)](https://github.com/SEU_USUARIO)
+[![GitHub Stars](https://img.shields.io/github/stars/SEU_USUARIO?affiliations=OWNER&style=for-the-badge)](https://github.com/SEU_USUARIO)
 
-HTML
-CSS
-JavaScript
-Git
-React
-Node
-SQL
-Python
+</div>
 
-<br clear="right"/>
+---
 
+# 👩‍💻 Sobre mim
+
+Sou estudante de **Ciência da Computação** apaixonada por tecnologia e desenvolvimento de software.
+
+Atualmente estou construindo minha base como **Desenvolvedora Full Stack**, estudando desde os fundamentos da programação até o desenvolvimento de aplicações completas.
+
+Meu objetivo é aprender construindo projetos reais, evoluindo continuamente e criando um portfólio sólido que demonstre minha trajetória como desenvolvedora.
+
+---
+
+# 🚀 Atualmente estudando
+
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- TypeScript
+- React
+- Node.js
+- Express
+- SQL
+- Python
+
+---
+
+# 🛠 Tecnologias
+
+### Front-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+</p>
+
+### Back-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+</p>
+
+### Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+</p>
+
+---
